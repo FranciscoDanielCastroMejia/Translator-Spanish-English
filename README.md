@@ -81,7 +81,7 @@ for i in range(n_parts):
     print('\n')
 ```
 Join all strings into a single string with a space as a separator
-``python
+```python
 translations = translation.values()
 full_translations = ' '.join(translations)
 
